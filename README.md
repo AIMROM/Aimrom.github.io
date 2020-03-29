@@ -5,7 +5,7 @@
 <p>Aimrom Website.</p>
 <p>Template Name: "Dimension" by HTML5 UP</p>
 
-http://aimrom.org/
+https://aimrom.github.io
 
 Credits:
 
